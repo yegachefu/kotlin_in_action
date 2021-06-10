@@ -1,4 +1,4 @@
-package yegachefu.kotlin.ex;
+package yegachefu.java.ex;
 
 import kotlin.text.StringsKt;
 
