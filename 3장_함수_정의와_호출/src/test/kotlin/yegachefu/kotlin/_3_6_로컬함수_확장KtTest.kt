@@ -1,7 +1,7 @@
 package yegachefu.kotlin
 
 import org.junit.jupiter.api.Test
-import yegachefu.kotlin.ex.AsIs
+import yegachefu.java.ex.AsIs
 import yegachefu.kotlin.ex.Tobe
 import yegachefu.kotlin.ex.save
 
